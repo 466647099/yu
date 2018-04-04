@@ -20,7 +20,7 @@ html, body{
 	position:relative;
 }
 .contractway{
-    font-size: 20px;
+    font-size: 1.3em;
 }
 .labeipone{
 	color:red;
@@ -32,9 +32,8 @@ html, body{
 	color:red;
 }
 .logo{
-	font-size: 1.8rem;
-    padding: 10px;
-    margin-top: 15px;
+	font-size: 1.6em;
+    margin-top: 2%;
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -233,7 +232,6 @@ ul.dropdown-menu {
 .logo{
     position: absolute;
     top: 0;
-    width: 170px;
     z-index: 999;
 }
 .logo h1 a {
@@ -1910,9 +1908,7 @@ button.btn1.btn-1.btn-1b:hover {
 	.popular-slide-info p {
 		width: 66%;
 	}
-	.popular-slide-info {
-		background: url(../images/9.jpg) no-repeat 0px -49px;
-	}
+
 	ul.callbacks_tabs.callbacks2_tabs {
 		top: 60%;
 	}
@@ -1996,16 +1992,13 @@ button.btn1.btn-1.btn-1b:hover {
 		padding: 3em 0 6em;
 	}
 	.popular-slide-info {
-		background: url(../images/9.jpg) no-repeat 0px 0;
 		min-height: 360px;
 		background-size: cover !important;
 	}
 	.popular-slide1 {
-		background: url(../images/10.jpg) no-repeat 0px 0px !important;
 		background-size: cover !important;
 	}
 	.popular-slide2 {
-		background: url(../images/11.jpg) no-repeat 0px 0px !important;
 		background-size: cover !important;
 	}
 }
@@ -2046,11 +2039,9 @@ button.btn1.btn-1.btn-1b:hover {
 		font-size: 2em;
 	}
 	.banner-bottom-left {
-		background: url(../images/5.png) no-repeat 117px 0px #2DCB74;
 		background-size: 76%;
 	}
 	.banner-bottom-right {
-		background: url(../images/4.png) no-repeat 166px 0px #D2D4D4 !important;
 		background-size: 55% !important;
 	}
 	.information-heading h3, .popular-heading h3 {
@@ -2129,11 +2120,9 @@ button.btn1.btn-1.btn-1b:hover {
 		top: 7%;
 	}
 	.banner-bottom-left {
-		background: url(../images/5.png) no-repeat 185px 0px #2DCB74;
 		background-size: 64%;
 	}
 	.banner-bottom-right {
-		background: url(../images/4.png) no-repeat 264px 0px #D2D4D4 !important;
 		background-size: 38% !important;
 	}
 	.information-grids {
@@ -2202,7 +2191,7 @@ button.btn1.btn-1.btn-1b:hover {
 	}
 	.navbar-toggle {
 		margin-top: 21px;
-		margin-right: 0;
+		margin-right: 30%;
 	}
 	.top-header-left {
 		width: 43%;
@@ -2261,11 +2250,9 @@ button.btn1.btn-1.btn-1b:hover {
 		width: 40%;
 	}
 	.banner-bottom-left {
-		background: url(../images/5.png) no-repeat 141px 0px #2DCB74;
 		background-size: 75%;
 	}
 	.banner-bottom-right {
-		background: url(../images/4.png) no-repeat 199px 0px #D2D4D4 !important;
 		background-size: 49% !important;
 	}
 }
@@ -2294,7 +2281,6 @@ button.btn1.btn-1.btn-1b:hover {
 		right: 41%;
 	}
 	.banner {
-		background: url(../images/2.jpg) no-repeat ;
 		background-size: cover;
 		padding: 2em 0 3em;
 	}
@@ -2308,11 +2294,9 @@ button.btn1.btn-1.btn-1b:hover {
 		height: 124px;
 	}
 	.banner-bottom-left {
-	    background: url(../images/5.png) no-repeat 108px 0px #2DCB74;
 		background-size: 73%;
 	}
 	.banner-bottom-right {
-		background: url(../images/4.png) no-repeat 161px 0px #D2D4D4 !important;
 		background-size: 48% !important;
 	}
 	.information-heading h3, .popular-heading h3 {
